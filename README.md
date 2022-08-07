@@ -40,12 +40,10 @@ In my past versions, configuration parameters and scripts were put together.When
 
 You can upload your backup to object storage to reduce the risk of data loss.
 
-
+![](https://github.com/SZDRZ/mysql-backup/blob/main/images/4.drawio.png?raw=true)
 
 ### - Alerting Support
 
 When the backup fails, there will be an alarm prompting you to handle the problem
 
-
-
-#### 
+![](https://github.com/SZDRZ/mysql-backup/blob/main/images/5.drawio.png?raw=true)
